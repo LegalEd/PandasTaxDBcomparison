@@ -1,2 +1,2 @@
 # PandasTaxDBcomparison
-Pandas based comparison of Tax deadlines
+Python Pandas based comparison of Tax deadlines
