@@ -1,0 +1,7 @@
+xlwt==1.3.0
+openpyxl
+pillow
+bs4
+lxml
+selenium
+selenium-requests
